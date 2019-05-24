@@ -1,0 +1,12 @@
+alex.left(90)
+alex.forward(100)
+alex.left(90)
+alex.forward(100)
+alex.circle(50)
+alex.forward(100)
+alex.left(90)
+alex.forward(100)
+alex.left(90)
+alex.forward(200)
+alex.right(90)
+
